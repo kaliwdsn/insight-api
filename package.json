@@ -63,6 +63,7 @@
     "async": "*",
     "bitcore-lib": "GridProject/bitcore-lib",
     "bitcore-message": "GridProject/bitcore-message",
+    "cc-transaction": "^1.2.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1", 
     "lodash": "^2.4.1",
